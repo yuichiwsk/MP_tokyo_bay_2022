@@ -5,4 +5,4 @@ This repository contains the raw data used in a study conducted in Tokyo Bay on 
 This dataset is used in the manuscript titled "Concentrations and Characteristics of Microplastic Particles Collected by Neuston Net or Pump System in the Surface Layer of Tokyo Bay" which is currently under review for publication.
 
 ## Data:
-Tokyo_Bay_MPs_Data_ver1.xlsx  (uploaded 2024-09-02)
+Tokyo_Bay_Microplastic_Data_2022_ver1.xlsx  (uploaded 2024-09-02)
